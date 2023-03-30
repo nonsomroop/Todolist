@@ -1,9 +1,9 @@
 import React from 'react'
 
-function TodayPage() {
+function CalendarPage() {
   return (
     <></>
   )
 }
 
-export default TodayPage
+export default CalendarPage
