@@ -18,7 +18,7 @@
 
     const wrapperStyle ={
         padding: "10px 20px",
-        background: "#fefffe",
+        background: "#f4affa",
         width: { xs: "300px", md: "500px" },
         borderRadius: "10px",
         margin: "20px 0px",
